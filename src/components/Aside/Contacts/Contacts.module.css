@@ -1,0 +1,20 @@
+ .container{
+     margin: 10px 0;
+ }
+ 
+ .contacts p{
+     display: flex;
+ }
+
+ .content{
+    font-family: sans-serif;
+    align-self: center;
+    margin-left: 12px;
+}
+.contacts img{
+    width: 25px;
+    margin: 0;
+    box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.349);
+    padding: 0;
+    border-radius: 50%;
+}

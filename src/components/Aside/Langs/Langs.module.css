@@ -1,0 +1,9 @@
+.container{
+    margin: 10px 0;
+    display: flex;
+}
+.content{
+    font-family: sans-serif;
+    margin-left: 12px;
+}
+

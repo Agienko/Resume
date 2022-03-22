@@ -1,0 +1,27 @@
+.aside{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: #054174;
+    color: white;
+}
+
+.aside img{
+    margin: 20px;
+    justify-self: center;
+    border-radius: 10px;
+    width: 150px;
+}
+
+.aside h3{
+    background-color: #08345d;
+    padding: 5px 0 5px 20px;
+}
+.aside p{
+    padding: 5px 0 5px 20px;
+}
+
+.aside li{
+   list-style: disc;
+   padding: 5px 0 5px 20px;
+}
+

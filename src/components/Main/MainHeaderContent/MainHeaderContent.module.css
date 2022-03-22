@@ -1,0 +1,33 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: auto 1fr 60px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.text{
+    font-weight: bold;
+    color: #20517b;
+    justify-self: start;
+}
+.wrapper hr {
+    margin: 15px;
+    background-color: #20517b;
+    color: #20517b;
+}
+.circle{
+    display: flex;
+    justify-self: center;
+    align-items:center;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    border: 1px solid #20517b;
+    justify-self: end;
+}
+
+
+.wrapper img{
+    margin: auto;
+    width: 40px;
+    border-radius: 50%;
+}
